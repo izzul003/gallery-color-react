@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Aqua",
+    "code": "#00FFFF",
+    "category": "light"
+  },
+  {
+    "name": "Black",
+    "code": "#000000",
+    "category": "dark"
+  },
+  {
+    "name": "Blue",
+    "code": "#0000FF",
+    "category": "dark"
+  },
+  {
+    "name": "Blue Violet",
+    "code": "#8A2BE2",
+    "category": "dark"
+  },
+  {
+    "name": "Brown",
+    "code": "#A52A2A",
+    "category": "dark"
+  },
+  {
+    "name": "Cyan",
+    "code": "rgba(62, 254, 255,1)",
+    "category": "light"
+  },
+  {
+    "name": "Dark Blue",
+    "code": "#00008B",
+    "category": "dark"
+  },
+  {
+    "name": "Dark Magenta",
+    "code": "#8B008B",
+    "category": "dark"
+  },
+  {
+    "name": "Dark Red",
+    "code": "#8B0000",
+    "category": "dark"
+  },
+  {
+    "name": "Pink",
+    "code": "#FF1493",
+    "category": "light"
+  },
+  {
+    "name": "Sky Blue",
+    "code": "#00BFFF",
+    "category": "light"
+  },
+  {
+    "name": "Turquoise",
+    "code": "#00CED1",
+    "category": "light"
+  },
+  {
+    "name": "Gray",
+    "code": "#808080",
+    "category": "dark"
+  },
+  {
+    "name": "Forest Green",
+    "code": "#228B22",
+    "category": "dark"
+  },
+  {
+    "name": "Gold",
+    "code": "#FFD700",
+    "category": "light"
+  },
+  {
+    "name": "Green",
+    "code": "#008000",
+    "category": "dark"
+  },
+  {
+    "name": "Light Blue",
+    "code": "#ADD8E6",
+    "category": "light"
+  },
+  {
+    "name": "Lime",
+    "code": "#00FF00",
+    "category": "light"
+  },
+  {
+    "name": "Magenta",
+    "code": "#FF00FF",
+    "category": "light"
+  },
+  {
+    "name": "Navy",
+    "code": "#000080",
+    "category": "dark"
+  },
+  {
+    "name": "Orange",
+    "code": "#FFA500",
+    "category": "light"
+  },
+  {
+    "name": "Purple",
+    "code": "#800080",
+    "category": "dark"
+  },
+  {
+    "name": "Red",
+    "code": "#FF0000",
+    "category": "light"
+  },
+  {
+    "name": "Violet",
+    "code": "#EE82EE",
+    "category": "light"
+  },
+  {
+    "name": "White",
+    "code": "#FFFFFF",
+    "category": "light"
+  },
+  {
+    "name": "White Smoke",
+    "code": "#F5F5F5",
+    "category": "light"
+  },
+  {
+    "name": "Yellow",
+    "code": "#FFFF00",
+    "category": "light"
+  },
+  {
+    "name": "Chocolate",
+    "code": "#D2691E",
+    "category": "dark"
+  },
+  {
+    "name": "Coral",
+    "code": "#FF7F50",
+    "category": "light"
+  },
+  {
+    "name": "Dark Cyan",
+    "code": "#008B8B",
+    "category": "dark"
+  },
+  {
+    "name": "Dark Gray",
+    "code": "#A9A9A9",
+    "category": "dark"
+  },
+  {
+    "name": "Dark Golden Rod",
+    "code": "#B8860B",
+    "category": "Dark"
+  },
+  {
+    "name": "Dark Orange",
+    "code": "#FF8C00",
+    "category": "dark"
+  },
+  {
+    "name": "Golder Rod",
+    "code": "#DAA520",
+    "category": "dark"
+  },
+  {
+    "name": "Maroon",
+    "code": "#800000",
+    "category": "dark"
+  },
+  {
+    "name": "Lavender",
+    "code": "#E6E6FA",
+    "category": "light"
+  },
+  {
+    "name": "Indigo",
+    "code": "#4B0082",
+    "category": "dark"
+  },
+  {
+    "name": "Moccasin",
+    "code": "#FFE4B5",
+    "category": "light"
+  },
+  {
+    "name": "Olive",
+    "code": "#808000",
+    "category": "dark"
+  },
+  {
+    "name": "Moccasin",
+    "code": "#FFE4B5",
+    "category": "light"
+  }
+]
